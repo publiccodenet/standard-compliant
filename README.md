@@ -1,5 +1,5 @@
 This repository records codebases that are in compliance with the [Standard for Public Code](https://standard.publiccode.net).
-The record consists by three files, a Markdown file, a JSON file and a SVG file, all named with the hash of the commit which was assessed by the codebase stewards at the Foundation for Public Code.
+The record consists by three files, a Markdown file, a JSON file and a SVG file, all named with the hash of the commit which was [assessed by the codebase stewards](https://publiccode.net/standard-for-public-code/) at the Foundation for Public Code.
 Through the website published, compliance for a specific commit can be verified, and commits not in compliance will result in a `404 Page not found` error.
 
 ## Structure
