@@ -35,7 +35,7 @@ Ideally, it should link to the rendered file on the standard-compliance website 
 
 ## List of compliant codebases
 
-On the site [standard-compliance.publiccode.net](https://standard-compliance.publiccode.net) we publish a list of all codebases (and the corresponding commits) that have been assessed as compliant with the Standard for Public Code by the codebases stewards.
+On the site [standard-compliant.publiccode.net](https://standard-compliant.publiccode.net) we publish a list of all codebases (and the corresponding commits) that have been assessed as compliant with the Standard for Public Code by the codebases stewards.
 
 ## Add your codebase
 
