@@ -4,7 +4,7 @@ There are no codebases which currently have been assessed as meeting all of the 
 
 ## Public commitment
 
-The following codebases have made a public commitment:
+The following codebases have made a public commitment to meet the Standard for Public Code:
 
 * [Standard for Public Code](https://github.com/publiccodenet/standard#help-improve-this-standard)
 * [Algoritmeregister standard](https://github.com/Algoritmeregister/standard#standard-for-public-code-compliance)
