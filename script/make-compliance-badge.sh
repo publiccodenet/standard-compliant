@@ -13,21 +13,23 @@ if [ $VERBOSE -gt 0 ]; then
 	set -x
 fi
 
-REPO_AND_HASH=$1
-if [ "_${REPO_AND_HASH}_" == "__" ]; then
+REPO=$1
+HASH=$2
+if [ "_${REPO}_" == "__" ] || [ "_${HASH}_" == "__" ]; then
 	echo "must specify a repository and hash"
 	exit 1
 fi
 
-if [ "_${2}_" != "__" ]; then
-	STD_VERSION=$2
+if [ "_${3}_" != "__" ]; then
+	STD_VERSION=$3
 else
 	STD_VERSION=0.7.0
 fi
 
-HASH=$( basename $REPO_AND_HASH )
 SHORT_HASH=${HASH:0:10}
-DIR=$( dirname $REPO_AND_HASH )
+
+# strip "https://" if present
+DIR=$( echo $REPO | sed -e 's@^http[s]*://@@' )
 
 mkdir -pv $DIR
 
