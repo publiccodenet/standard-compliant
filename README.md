@@ -33,6 +33,8 @@ The SVG file contains the short hash of the assessed codebase.
 It is a badge that can be used by the codebase community wherever they want.
 Ideally, it should link to the rendered file on the standard-compliance website with the same hash so that it can be verified by anyone.
 
+To create a badge, run `script/make-compliance-badge.sh` and provide the repository, the hash of the assessed commit of the codebase and optionally the version of the standard as parameters.
+
 ## List of compliant codebases
 
 On the site [standard-compliant.publiccode.net](https://standard-compliant.publiccode.net) we publish a list of all codebases (and the corresponding commits) that have been assessed as compliant with the Standard for Public Code by the codebases stewards.
