@@ -20,10 +20,14 @@ This file is used for building the website [standard-compliant.publiccode.net](h
 
 The JSON file contains the same information as the Markdown file but in a structured format. The keys are as follows:
 
-* `Standard for Public Code version` - indicates what version of the Standard the codebase was assessed against.
-* `status` - always with the value `compliant`.
-* `assessement` - has the URL to the full assessment.
-* `approved`- list of codebase stewards approving the assessment.
+* `approved_by` - list of codebase stewards approving the assessment
+* `assessment_url` - has the URL to the full assessment
+* `commit_id` - the hash or other unique id of the commit
+* `commit_tag` - the version name that people would
+* `repository_name` - the name of the repository
+* `repository_url` - has the URL to the main repository
+* `standard_version` - indicates what version of the Standard the codebase was assessed against
+* `status` - always with the value `compliant`
 
 Currently, we are not using this file for anything.
 
