@@ -10,6 +10,7 @@ The following codebases have made a public commitment to meet the Standard for P
 * [Algoritmeregister standard](https://github.com/Algoritmeregister/standard#standard-for-public-code-compliance)
 * [DataDiode](https://github.com/CyberInnovationHub-NLD/OpenSourceDataDiode#standard-for-public-code)
 * [Governance game](https://github.com/publiccodenet/governance-game#contributing)
+* [Jitsi-Outlook](https://github.com/diggsweden/jitsi-outlook/blob/main/CONTRIBUTING.adoc#standard-for-public-code)
 * [Omgevingsbeleid FrontEnd](https://github.com/Provincie-Zuid-Holland/Omgevingsbeleid-Frontend#standard-for-public-code)
 * [OpenForms](https://github.com/open-formulieren/open-forms/blob/master/CONTRIBUTING.md)
 * [OpenZaak](https://github.com/open-zaak/open-zaak/blob/main/CONTRIBUTING.md)
