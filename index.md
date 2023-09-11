@@ -12,6 +12,7 @@ The following codebases have made a public commitment to meet the Standard for P
 * [Governance game](https://github.com/publiccodenet/governance-game#contributing)
 * [Jitsi-Outlook](https://github.com/diggsweden/jitsi-outlook/blob/main/CONTRIBUTING.adoc#standard-for-public-code)
 * [Omgevingsbeleid FrontEnd](https://github.com/Provincie-Zuid-Holland/Omgevingsbeleid-Frontend#standard-for-public-code)
+* [Open Source Project Template](https://github.com/diggsweden/open-source-project-template/blob/main/CONTRIBUTING.adoc#standard-for-public-code)
 * [OpenForms](https://github.com/open-formulieren/open-forms/blob/master/CONTRIBUTING.md)
 * [OpenZaak](https://github.com/open-zaak/open-zaak/blob/main/CONTRIBUTING.md)
 * [Signalen BackEnd](https://github.com/Amsterdam/signals/blob/master/docs/CONTRIBUTING.md)
